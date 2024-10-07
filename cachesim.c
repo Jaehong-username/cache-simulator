@@ -1,7 +1,5 @@
 /****************************************************************************************************************************
 * Programmer: Jaehong Lee
-* Class: CPTs 360, Fall 2024
-* Programming Assignment: PA1
 * Date: September 26th, 2024
 * Description: This assignment is a cache simulator project. The cache simulator will tell you counts of hits, misses, and
                evictions in total, taking lines of valgrind memory trace as an input. Depending on command line arguments,
